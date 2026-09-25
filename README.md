@@ -7,10 +7,10 @@
 
 ### ✨ Hakkımda
 
-Samsun Üniversitesi'nde Yazılım Mühendisliği 4. sınıf öğrencisiyim. Geliştirdiğim projelerde modern web teknolojilerini, yapay zeka (LLM ) mimarilerini ve otonom sistemleri harmanlayarak yenilikçi çözümler üretmeye odaklanıyorum. Hem frontend hem de backend süreçlerinde yer alarak uçtan uca mimariler kurmaktan keyif alıyorum.
+Samsun Üniversitesi'nde Yazılım Mühendisliği 4. sınıf öğrencisiyim. Geliştirdiğim projelerde modern web teknolojilerini, yapay zeka (LLM) mimarilerini ve otonom sistemleri harmanlayarak yenilikçi çözümler üretmeye odaklanıyorum. Hem frontend hem de backend süreçlerinde yer alarak uçtan uca mimariler kurmaktan keyif alıyorum.
 
-- 💼 Şu an **MilSOFT Yazılım Teknolojileri A.Ş.**'de Yazılım Mühendisliği Stajyeri olarak görev alıyorum.
-- 🔭 **TEKNOFEST Savaşan İHA** yarışması kapsamında Tanyeli ekibiyle birlikte **otonom kilitleme ve it-dalaşı (dogfight)** dinamikleri üzerine çalışıyorum. Aynı zamanda TÜBİTAK destekli yapay zeka tabanlı bir projede aktif rol alıyorum.
+- 💼 **MilSOFT Yazılım Teknolojileri A.Ş.**'de Yazılım Mühendisliği Stajyerliğimi tamamladım.
+- 🔭 **TEKNOFEST Savaşan İHA** yarışması kapsamında Tanyeli ekibiyle birlikte **otonom kilitleme ve it-dalaşı (dogfight)** dinamikleri üzerine çalıştım, finalist oldum. Aynı zamanda TÜBİTAK destekli yapay zeka tabanlı bir projede aktif rol aldım.
 - 🌱 **YOLOv11** ile nesne tespiti üzerine çalışıyorum.
 - 💬 Benimle **Yapay Zeka**, **Otonom Uçuş Sistemleri** veya **Full-Stack Web Mimarileri** hakkında iletişime geçebilirsiniz.
 
@@ -41,8 +41,9 @@ Samsun Üniversitesi'nde Yazılım Mühendisliği 4. sınıf öğrencisiyim. Gel
 
 ### 📫 Bana Ulaşın
 
-- 🔗 **LinkedIn:** [linkedin.com/in/begumhandandemir](https://www.linkedin.com/in/beg%C3%BCm-handan-demir-69788b287/) 
-- 💌 **Mail:** [begumhandandemir@gmail.com](mailto:begumhandandemir@gmail.com) 
+- 🌐 **Portfolyo:** [my-portfolio-web-nine-beta.vercel.app](https://my-portfolio-web-nine-beta.vercel.app/)
+- 🔗 **LinkedIn:** [linkedin.com/in/begumhandandemir](https://www.linkedin.com/in/beg%C3%BCm-handan-demir-69788b287/)
+- 💌 **Mail:** [begumhandandemir@gmail.com](mailto:begumhandandemir@gmail.com)
 - 💻 **GitHub:** [github.com/begumhandan](https://github.com/begumhandan)
 
 ---
