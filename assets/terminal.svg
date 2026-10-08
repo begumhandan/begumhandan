@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="324" viewBox="0 0 840 324" role="img">
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace; }
+  .orb  { animation: drift 14s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+  .orb2 { animation-duration: 18s; animation-direction: alternate-reverse; }
+  @keyframes drift { from { transform: translate(-30px, -10px) scale(1); } to { transform: translate(40px, 14px) scale(1.15); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+.ln { opacity: 0; animation: show .35s ease-out forwards; }@keyframes show { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }.cursor { animation: show .3s forwards, blink 1.1s steps(1) infinite; }@keyframes blink { 50% { fill-opacity: 0; } }@media (prefers-reduced-motion: reduce) { .ln { opacity: 1; } }.l0 { animation-delay: 0.85s; }.l1 { animation-delay: 1.10s; }.l2 { animation-delay: 1.65s; }.l3 { animation-delay: 1.90s; }.l4 { animation-delay: 2.45s; }.l5 { animation-delay: 2.70s; }.l6 { animation-delay: 3.25s; }.l7 { animation-delay: 3.50s; }.l8 { animation-delay: 3.90s; }</style>
+<defs>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#38bdf8" stop-opacity=".55"/>
+    <stop offset=".5" stop-color="#a78bfa" stop-opacity=".25"/>
+    <stop offset="1" stop-color="#f472b6" stop-opacity=".45"/>
+  </linearGradient>
+  <radialGradient id="gViolet"><stop offset="0" stop-color="#a78bfa" stop-opacity=".28"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gCyan"><stop offset="0" stop-color="#38bdf8" stop-opacity=".22"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="838" height="322" rx="18"/></clipPath>
+  
+</defs>
+<rect x="1" y="1" width="838" height="322" rx="18" fill="#0b1018"/>
+
+  <g clip-path="url(#clip)">
+    <circle class="orb" cx="689" cy="49" r="178" fill="url(#gViolet)"/>
+    <circle class="orb orb2" cx="101" cy="308" r="162" fill="url(#gCyan)"/>
+  </g>
+<rect x="1" y="1" width="838" height="322" rx="18" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+
+  <rect x="1" y="1" width="838" height="40" rx="18" fill="#0f1622" clip-path="url(#clip)"/>
+  <rect x="1" y="30" width="838" height="11" fill="#0f1622" clip-path="url(#clip)"/>
+  <line x1="1" y1="41" x2="839" y2="41" stroke="#1f2a3a"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f57"/><circle cx="46" cy="21" r="6" fill="#febc2e"/><circle cx="66" cy="21" r="6" fill="#28c840"/>
+  <text x="420.0" y="26" text-anchor="middle" class="mono" font-size="12.5" fill="#8b98a9">begum@shield: ~ — zsh</text>
+  <text x="34" y="74" class="mono ln l0" font-size="14.5" xml:space="preserve"><tspan fill="#4ade80">begum@shield</tspan><tspan fill="#8b98a9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#8b98a9">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text><text x="34" y="101" class="mono ln l1" font-size="14.5" xml:space="preserve"><tspan fill="#c3cfdd">Begüm Handan Demir — yazılım mühendisi adayı, AI + full-stack</tspan></text><text x="34" y="128" class="mono ln l2" font-size="14.5" xml:space="preserve"><tspan fill="#4ade80">begum@shield</tspan><tspan fill="#8b98a9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#8b98a9">$ </tspan><tspan fill="#e6edf3">cat now.txt</tspan></text><text x="34" y="155" class="mono ln l3" font-size="14.5" xml:space="preserve"><tspan fill="#c3cfdd">Context-Shield AI  ████████████████████  [gizli]</tspan></text><text x="34" y="182" class="mono ln l4" font-size="14.5" xml:space="preserve"><tspan fill="#4ade80">begum@shield</tspan><tspan fill="#8b98a9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#8b98a9">$ </tspan><tspan fill="#e6edf3">ls experience/</tspan></text><text x="34" y="209" class="mono ln l5" font-size="14.5" xml:space="preserve"><tspan fill="#a78bfa">MilSOFT/   ROBUST/   Tanyeli-SİHA/   TÜBİTAK-2209A/</tspan></text><text x="34" y="236" class="mono ln l6" font-size="14.5" xml:space="preserve"><tspan fill="#4ade80">begum@shield</tspan><tspan fill="#8b98a9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#8b98a9">$ </tspan><tspan fill="#e6edf3">echo $FOCUS</tspan></text><text x="34" y="263" class="mono ln l7" font-size="14.5" xml:space="preserve"><tspan fill="#c3cfdd">LLM güvenliği · görüntü işleme (YOLO) · React / React Native</tspan></text><text x="34" y="290" class="mono ln l8" font-size="14.5"><tspan fill="#4ade80">begum@shield</tspan><tspan fill="#8b98a9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#8b98a9">$ </tspan></text><rect class="cursor ln l8" x="158" y="277" width="9" height="17" fill="#38bdf8"/>
+
+</svg>

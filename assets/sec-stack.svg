@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="58" viewBox="0 0 840 58" role="img">
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace; }
+  .orb  { animation: drift 14s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+  .orb2 { animation-duration: 18s; animation-direction: alternate-reverse; }
+  @keyframes drift { from { transform: translate(-30px, -10px) scale(1); } to { transform: translate(40px, 14px) scale(1.15); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#38bdf8" stop-opacity=".55"/>
+    <stop offset=".5" stop-color="#a78bfa" stop-opacity=".25"/>
+    <stop offset="1" stop-color="#f472b6" stop-opacity=".45"/>
+  </linearGradient>
+  <radialGradient id="gViolet"><stop offset="0" stop-color="#a78bfa" stop-opacity=".28"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gCyan"><stop offset="0" stop-color="#38bdf8" stop-opacity=".22"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="838" height="56" rx="14"/></clipPath>
+  
+</defs>
+<rect x="1" y="1" width="838" height="56" rx="14" fill="#0b1018"/>
+
+<rect x="1" y="1" width="838" height="56" rx="14" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+
+  <text x="26" y="36" class="mono" font-size="15" font-weight="700" fill="#38bdf8" letter-spacing="2">TECH.STACK</text>
+  <text x="163" y="36" class="mono" font-size="13.5" fill="#8b98a9">cat stack.yml</text>
+  <text x="814" y="36" text-anchor="end" class="mono" font-size="13" fill="#8b98a9"></text>
+
+</svg>
